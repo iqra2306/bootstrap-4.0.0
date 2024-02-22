@@ -1,0 +1,73 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.selectionLight{
+    background-color: #eceeef;
+    padding: 2em;
+}
+.SectionDark{
+    background-color: #cccc;
+    padding: 2rem;
+
+}
+.coolstuffwrapper{
+    margin: 20px;
+    text-align: center;
+}
+ button.btn-outline-coolstuffs{
+    background-color: rgb(28, 132, 192);
+    color: blanchedalmond;
+    display: block;
+    margin: auto;
+ }
+ h5.modal-title
+ {
+    margin:auto;
+ }
+ .modalFormWrapper{
+    padding: 2rem;
+ }
+.imgCenter{
+    display: block;
+    margin: auto;
+    padding: 3rem;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 15px;
+   
+}
+.size{
+    width: 20%;
+    display: block;
+    padding: 10px;
+}
+footer.bg-inverse{
+    background-color: grey;
+}
+.fa-facebook-square{
+    color: rgb(34, 34, 122);
+}
+.fa{
+    margin: 10px;
+}
+.socialwrapper{
+    margin: auto;
+}
+.fa:hover{
+    color: #eceeef;
+}
+.fa-twitter-square{
+    color: black;
+}
+.fa-instagram {
+    color: #000;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
